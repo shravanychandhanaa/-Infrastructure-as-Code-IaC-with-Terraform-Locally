@@ -95,7 +95,7 @@ terraform plan > plan_log.txt
 terraform apply -auto-approve > apply_log.txt
 ```
 
-✅ Visit [http://localhost:8080](http://localhost:8080) to see the NGINX welcome page.
+✅ Visit [http://localhost:8080](http://localhost:8080) to see the NGINX welcome page. (screenshot attached)
 
 ### 5. View Terraform-managed Resources
 
